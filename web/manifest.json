@@ -1,6 +1,6 @@
 {
-    "name": "integration_test",
-    "short_name": "integration_test",
+    "name": "integration_testing",
+    "short_name": "integration_testing",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
